@@ -41,7 +41,7 @@ ul {
   margin: 0;
 }
 /* header */
-.header-nav {
+.header-nav .container {
   display: flex;
   align-items: center;
   align-self: end;
@@ -74,7 +74,7 @@ ul {
   margin-bottom: 0;
 }
 /*Стилизацыя навигации */
-nav {
+.my-nav {
   display: flex;
   align-items: center;
 }
